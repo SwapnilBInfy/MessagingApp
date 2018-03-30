@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874436708411",
+    "firebase_url": "https://messagingapp-e990d.firebaseio.com",
+    "project_id": "messagingapp-e990d",
+    "storage_bucket": "messagingapp-e990d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874436708411:android:1ddc209968b7b27d",
+        "android_client_info": {
+          "package_name": "com.example.swapnilbasu.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874436708411-0jicjigs6d5a82pbt6gps6blqfbip07s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapnilbasu.messagingapp",
+            "certificate_hash": "112e000f40179decf288eba024d3c5e18ff0c6ed"
+          }
+        },
+        {
+          "client_id": "874436708411-filu85n2ddpd6jn8tf6k18s8g8hadvnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxieeVVQcVlYr7BRNpexsQAfC9Xxv_lN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874436708411-filu85n2ddpd6jn8tf6k18s8g8hadvnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
